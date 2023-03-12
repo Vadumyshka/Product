@@ -192,6 +192,7 @@ a {
 .management__content {
     padding-top: 150px;
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
     gap: 40px;
